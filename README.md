@@ -9,11 +9,11 @@ Contiene todos los archivos necesario para el despliegue de las 2 instancias de 
 De igual manera, contiene un archivo .md donde se explica detalladamente cada uno de los archivos.
 
 ## Cloud Function
-Contiene todos los archivos necesarios para el despliegue de las 3 Cloud Functions de este proyecto.
+Contiene todos los archivos necesarios para el despliegue de las 4 Cloud Functions de este proyecto.
 De igual manera, contiene un archivo .md donde se explica detalladamente cada uno de los archivos.
 
 ## DataFlows
-Contiene todos los archivos necesarios para el despliegue de jobs en DataFlows en este proyecto.
+Contiene todos los archivos necesarios para el despliegue de 3 tipos de jobs en DataFlows en este proyecto.
 De igual manera, contiene un archivo .md donde se explica detalladamente cada uno de los archivos.
 
 
