@@ -1,0 +1,28 @@
+{
+    "BigQuery Schema": [
+      {
+        "name": "Date",
+        "type": "DATE"
+      },
+      {
+        "name": "Keyword",
+        "type": "STRING"
+      },
+      {
+        "name": "text",
+        "type": "STRING"
+      },
+      {
+        "name": "sentiment",
+        "type": "FLOAT"
+      },
+      {
+        "name": "likes",
+        "type": "INTEGER"
+      },
+      {
+        "name": "user_followers",
+        "type": "INTEGER"
+      }
+    ]
+  }
