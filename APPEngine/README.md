@@ -1,9 +1,8 @@
 # APPEngine
-This folder contains all the files used to deploy both APPEngine in Google Cloud Platform
+Esta carpeta está, a su vez, dividida en otras 2 carpetas. Cada carpeta contiene los archivos utilizados para desplegar la instancia correspondiente de APPEngine.
 
 ### APPEngine Twitter
-This folder contains the files used to deploy the APPEngine instance in the Twitter Pipeline
+Esta carpeta contiene todos los archivos utilizados para desplegar la instancia de APPEngine correspondiente a la Pipeline de Twitter
 
 ### APPEngine WineSearcher
-This folder contains the files used to deploy the APPEngine instance in the WS Pipeline
-
+Esta carpeta contiene todos los archivos utilizados para desplegar la instancia de APPEngine correspondiente a la Pipeline de WineSearcher
