@@ -1,10 +1,13 @@
-This folder contains 3 files:
+Esta carpeta contiene 4 archivos:
 
 #### app.yalm
-This files defines the config of the instance
+Este archivo define la configuración de la instancia de AppEngine
 
 #### main.py
-This file is a python file where the app is defined
+En este archivo se define la aplicación
 
 #### requirements.txt
-This file contains all the libraries required to run the app
+En este archivo se registran todas las librerias necesarias para el correcto funcionamiento de la aplicación
+
+#### README.md
+En este archivo se describe el contenido de la carpeta
