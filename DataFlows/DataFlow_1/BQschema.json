@@ -1,0 +1,56 @@
+{
+    "BigQuery Schema": [
+      {
+        "name": "Producer_name",
+        "type": "STRING"
+      },
+      {
+        "name": "Number_of_Followers_on_Twitter",
+        "type": "INTEGER"
+      },
+      {
+        "name": "keyword",
+        "type": "STRING"
+      },
+      {
+        "name": "Tweet_ID",
+        "type": "INTEGER"
+      },
+      {
+        "name": "Date",
+        "type": "DATE"
+      },
+      {
+        "name": "Likes",
+        "type": "INTEGER"
+      },
+      {
+        "name": "Retweets",
+        "type": "INTEGER"
+      },
+      {
+        "name": "Text",
+        "type": "STRING"
+      },
+      {
+        "name": "Original_Language",
+        "type": "STRING"
+      },
+      {
+        "name": "Location",
+        "type": "STRING"
+      },
+      {
+        "name": "Posted_by",
+        "type": "STRING"
+      },
+      {
+        "name": "User_Follower",
+        "type": "INTEGER"
+      },
+      {
+        "name": "User_Following",
+        "type": "INTEGER"
+      }
+    ]
+  }
