@@ -1,0 +1,84 @@
+{
+    "BigQuery Schema": [
+      {
+        "name": "OfferDate",
+        "type": "DATE"
+      },
+      {
+        "name": "ProducerName",
+        "type": "STRING"
+      },
+      {
+        "name": "ProductName",
+        "type": "STRING"
+      },
+      {
+        "name": "BottleSize",
+        "type": "STRING"
+      },
+      {
+        "name": "BottleSizeEquiv",
+        "type": "STRING"
+      },
+      {
+        "name": "Vintage",
+        "type": "INTEGER"
+      },
+      {
+        "name": "MerchantName",
+        "type": "STRING"
+      },
+      {
+        "name": "MerchantCountry",
+        "type": "STRING"
+      },
+      {
+        "name": "MerchantState",
+        "type": "STRING"
+      },
+      {
+        "name": "MerchantCity",
+        "type": "STRING"
+      },
+      {
+        "name": "CurrencyCode",
+        "type": "STRING"
+      },
+      {
+        "name": "LocalPrice",
+        "type": "FLOAT"
+      },
+      {
+        "name": "PriceInEur",
+        "type": "FLOAT"
+      },
+      {
+        "name": "TaxStatus",
+        "type": "STRING"
+      },
+      {
+        "name": "LocalPriceExTax",
+        "type": "FLOAT"
+      },
+      {
+        "name": "PriceInEurTaxExcl",
+        "type": "FLOAT"
+      },
+      {
+        "name": "PriceInEurExclPer750ml",
+        "type": "FLOAT"
+      },
+      {
+        "name": "FindPage",
+        "type": "STRING"
+      },
+      {
+        "name": "DeepLink",
+        "type": "STRING"
+      },
+      {
+        "name": "BusinessType",
+        "type": "STRING"
+      }
+    ]
+  }
